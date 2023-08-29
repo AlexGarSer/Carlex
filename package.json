@@ -1,0 +1,26 @@
+{
+  "name": "carlex",
+  "version": "1.0.0",
+  "description": "Api principal de carlex",
+  "main": "index.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "vue3",
+    "js",
+    "boostrap",
+    "api"
+  ],
+  "author": "Alex Garcia Serna, Carlos Emiliano Hinujosa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
